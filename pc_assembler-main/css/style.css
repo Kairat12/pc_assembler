@@ -1,0 +1,60 @@
+header{
+    background-image: url(../img/main-screen__bgc.png);
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+
+
+
+/* ================ */
+/* ЧЕМ МЫ ЗАНИМАЕМСЯ */
+/* ================ */
+
+
+.description {
+    width: 1301px;
+    height: 542px;
+    /* border: 1px solid #000; */
+    margin: 200px 307px 0px 312px;
+    display: flex;
+}
+
+.img-rectangle {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -2;
+}
+
+.img-block {
+    position: absolute;
+    top: 96px;
+    left: 40px;
+}
+
+.block-img {
+    position: relative;
+    width: 50%;
+}
+
+.block-text {
+    width: 50%;
+}
+
+
+
+/* ================ */
+/* БЫСТРЫЙ СТАРТ */
+/* ================ */
+
+
+.quick-start {
+    border: 1px solid #000;
+    width: 1315px;
+    height: 552px;
+    margin: 200px 312px 0px 293px;
+}
